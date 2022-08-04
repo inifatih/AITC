@@ -1,0 +1,109 @@
+.btn1{
+  position: absolute;
+  width: 120px;
+  height: 36px;
+  left: 696px;
+  top: 667px;
+  
+  background: #C8C8C8;
+  border-radius: 8px;
+  text-align: center;
+  cursor: pointer;
+}
+.btn2{
+  position: absolute;
+  width: 250px;
+  height: 56px;
+  left: 631px;
+  top: 1161px;
+  
+  color: white;
+  background: #004681;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.nama {
+  position: absolute;
+  width: 500px;
+  height: 52px;
+  left: 506px;
+  top: 751px;
+  
+  border: 1px solid #616161;
+  border-radius: 4px;
+}
+
+.ipk {
+  position: absolute;
+  width: 500px;
+  height: 52px;
+  left: 506px;
+  top: 819px;
+  
+  border: 1px solid #616161;
+  border-radius: 4px;
+}
+
+.bio {
+  position: absolute;
+  width: 500px;
+  height: 226px;
+  left: 506px;
+  top: 887px;
+
+  border: 1px solid #616161;
+  border-radius: 4px;
+}
+
+h1{
+  position: absolute;
+  width: 509px;
+  height: 199px;
+  left: 96px;
+  top: 48px;
+  
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 88px;
+  line-height: 123px;
+  /* or 123px */
+  
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.065em;
+  
+  color: #000000;
+}
+
+a{
+  position: absolute;
+  width: 100px;
+  height: 28px;
+  left: 1316px;
+  top: 48px;
+
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.065em;
+  text-decoration-line: underline;
+
+  color: #000000;
+}
+
+img {
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  left: 616px;
+  top: 371px;
+
+  border-radius: 8px;
+}
